@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buscador/static/css/main.ad8f6485.css",
+    "main.js": "/buscador/static/js/main.19643e09.js",
+    "index.html": "/buscador/index.html",
+    "main.ad8f6485.css.map": "/buscador/static/css/main.ad8f6485.css.map",
+    "main.19643e09.js.map": "/buscador/static/js/main.19643e09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad8f6485.css",
+    "static/js/main.19643e09.js"
+  ]
+}
